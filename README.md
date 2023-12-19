@@ -1,0 +1,1 @@
+# symbolapp-equation-input-cleaner-chrome-extension
